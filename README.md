@@ -2,4 +2,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDanne&_count=8&theme=dracula)
 
 
-[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=KevinDanne&repo=dotfiles&theme=dracula)](https://github.com/ryonicfire/dotfiles)
+[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=KevinDanne&repo=dotfiles&theme=dracula)](https://github.com/kevindanne/dotfiles)
